@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bangers {
+  font-family: "Bangers", system-ui;
+  font-style: normal;
+}
+.rubik-spray-paint {
+  font-family: "Rubik Spray Paint", system-ui;
+  font-style: normal;
+}
+.knewave {
+  font-family: "Knewave", system-ui;
+  font-style: normal;
+}
+.text-borders {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
